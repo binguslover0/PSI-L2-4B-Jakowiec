@@ -1,1 +1,1 @@
-# L2-PSI-PJ
+# PSI-L2-4B-Jakowiec
